@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Chees/static/css/main.429834e3.css",
+    "main.js": "/Chees/static/js/main.dbc6ec5d.js",
+    "static/js/787.497f1025.chunk.js": "/Chees/static/js/787.497f1025.chunk.js",
+    "static/media/bishop.svg": "/Chees/static/media/bishop.af3089f5e1f83b7c98df2a668465d9d8.svg",
+    "static/media/king.svg": "/Chees/static/media/king.0f85e323713a67838fd7eb3f7e5be52c.svg",
+    "static/media/queen.svg": "/Chees/static/media/queen.2888f214f14cdf83d6044a59b4c25c6d.svg",
+    "static/media/horse.svg": "/Chees/static/media/horse.c8443e46030633ec758cd66175fd97d2.svg",
+    "static/media/rook.svg": "/Chees/static/media/rook.20fcb9f3b5033287852b12b0032f5dd2.svg",
+    "static/media/pawn.svg": "/Chees/static/media/pawn.edc92a440c90ef7c149764f7d1b9fa2d.svg",
+    "index.html": "/Chees/index.html",
+    "main.429834e3.css.map": "/Chees/static/css/main.429834e3.css.map",
+    "main.dbc6ec5d.js.map": "/Chees/static/js/main.dbc6ec5d.js.map",
+    "787.497f1025.chunk.js.map": "/Chees/static/js/787.497f1025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.429834e3.css",
+    "static/js/main.dbc6ec5d.js"
+  ]
+}
