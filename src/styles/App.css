@@ -1,0 +1,94 @@
+h2 {
+  position: absolute;
+  top: -70px;
+  left: 8px;
+}
+
+.Log {
+  margin-left: 70px;
+  width: 300px;
+  height: 640px;
+  overflow-y: auto;
+}
+
+.kill span {
+  color: red
+}
+
+.Log h3 {
+  margin: 0;
+}
+
+.cell {
+    width: 80px; 
+    height: 80px; 
+    box-sizing: border-box;
+    /* border: 1px solid rgb(102, 70, 0) */
+}
+
+.cell.black {
+  background-color: #6c6868;
+}
+.cell.white {
+  background-color: #CACACA;
+}
+
+.cell.move {
+  background-color: #FFF491;
+  border: 1px solid #786919;
+}
+.cell.kill {
+  background-color: #ff91c4;
+  border: 1px solid #781960;
+}
+.cell.mate {
+  background-color: #ff0000;
+  border: 1px solid #6b0101;
+}
+
+.cell:hover {
+  border: 2px solid #FFD600;
+}
+
+.Figure {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 23px;
+  height: 75px;
+  cursor: pointer;
+}
+
+.Figure.white svg path{
+  fill: #fff;
+  stroke: #4d4d4d;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+}
+.Figure.black svg path{
+  fill: #000;
+  stroke: #838181;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+}
+
+.Figure.true svg path {
+  fill: #5EB2FF
+}
+.Figure:hover svg path {
+  fill: #FFD600
+} 
+
+.pickWindow {
+  width: 60px;
+  padding: 3px;
+  background-color: #ffe5e5;
+}
+.pickWindow p {
+  margin: 0;
+  cursor: pointer;
+}
+
+.pickWindow p:hover {
+  background-color: #838181;
+}
